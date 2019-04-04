@@ -43,4 +43,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.addMarker(new MarkerOptions().position(mexico).title("Marker in Mexico"));
         mMap.moveCamera( CameraUpdateFactory.newLatLngZoom(mexico, 15.0f) );
     }
+
+    
 }
