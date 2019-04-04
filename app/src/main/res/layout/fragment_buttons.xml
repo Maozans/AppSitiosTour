@@ -18,6 +18,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:onClick="onClick"
             android:text="Chichén Itzá" />
 
         <Button
@@ -25,6 +26,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:onClick="onClick"
             android:text="El Coliseo de Roma" />
     </LinearLayout>
 
@@ -39,6 +41,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:onClick="onClick"
             android:text="La Gran Muralla China" />
 
         <Button
@@ -46,6 +49,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:onClick="onClick"
             android:text="Machu Picchu" />
     </LinearLayout>
 
@@ -60,6 +64,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:onClick="onClick"
             android:text="El Taj Mahal" />
 
         <Button
@@ -67,6 +72,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:onClick="onClick"
             android:text="Cristo Redentor" />
     </LinearLayout>
 

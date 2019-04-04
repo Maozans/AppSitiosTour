@@ -6,6 +6,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 
 import com.ipn.mx.R;
 
@@ -28,5 +29,8 @@ public class ButtonsFragment extends Fragment {
         // Inflate the layout for this fragment
         return view;
     }
+
+
+
 
 }
