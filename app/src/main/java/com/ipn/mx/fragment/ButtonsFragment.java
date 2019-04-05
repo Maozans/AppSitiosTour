@@ -30,7 +30,9 @@ public class ButtonsFragment extends Fragment {
         return view;
     }
 
+    public void onClick(View view){
 
+    }
 
 
 }
